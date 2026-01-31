@@ -1,1 +1,1 @@
-# No third-party dependencies required for the PC server.
+Pillow>=10.0.0
