@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Test renders
+test_renders/
+
+# State
+state.json
+
+# OS
+.DS_Store
+Thumbs.db
