@@ -1,0 +1,17 @@
+{
+  "name": "Molt Pet",
+  "items": [
+    {
+      "name": "Start Molt Pet",
+      "action": "/mnt/us/extensions/molt_display/bin/start.sh"
+    },
+    {
+      "name": "Stop Molt Pet",
+      "action": "/mnt/us/extensions/molt_display/bin/stop.sh"
+    },
+    {
+      "name": "Update Once (Debug)",
+      "action": "/mnt/us/extensions/molt_display/bin/run_once.sh"
+    }
+  ]
+}
